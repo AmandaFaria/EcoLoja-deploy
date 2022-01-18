@@ -78,7 +78,7 @@ function DeletarProduto() {
                     <CardContent>
                         <Box justifyContent="center">
                             <Typography color="textSecondary" gutterBottom>
-                                Deseja deletar a Categoria:
+                                Deseja deletar o Produto:
                             </Typography>
                             <Typography color="textSecondary" >
                                 {produto?.id}
